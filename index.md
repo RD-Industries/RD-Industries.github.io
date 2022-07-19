@@ -112,11 +112,6 @@
         <div class="footer_links">
             <div class="footer_link-wrapper">
                 <div class="footer_link-items">
-                    <h2>Entreprises à connaître</h2>
-                    <a href="/sign-up">TLT</a>
-                    <a href="/sign-up">Binarius</a>
-                </div>
-                <div class="footer_link-items">
                     <h2>Team RD</h2>
                     <a href="/sign-up">R & D</a>
                     <a href="/sign-up">L'équipe</a>
@@ -134,6 +129,11 @@
                     <a href="https://discord.gg/nvMYMt6Tg3">Discord</a>
                     <a href="https://www.instagram.com/rd__industries/">Instagram</a>
                     <a href="https://twitter.com/RD__Industries">Twitter</a>
+                </div>
+                <div class="footer_link-items">
+                    <h2>Entreprises à connaître</h2>
+                    <a href="/sign-up">TLT</a>
+                    <a href="/sign-up">Binarius</a>
                 </div>
             </div>
         </div>

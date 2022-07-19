@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html lang="fr">
 <head>
@@ -40,7 +39,7 @@
         <div class="hero_container">
             <h1 class="hero_heading"><span>RD-Industries</span></h1>
             <p class="hero_description"></p>
-            <button class="main_btn"><a href="team.html">Nous découvrir</a></button>
+            <button class="main_btn"><a href="team.html">Qui sommes-nous ?</a></button>
         </div>
     </div>
 
@@ -85,7 +84,7 @@
             </div>
             <div class="services_card">
                 <h2>James & Hercul</h2>
-                <p>Plus utils qu'esthétiques</p>
+                <p>Un rêve ou une réalitée ?</p>
                 <div class="services_btn"><button><a href="robots.html">Nos robots</a></button></div>
             </div>
         </div>
@@ -113,18 +112,14 @@
         <div class="footer_links">
             <div class="footer_link-wrapper">
                 <div class="footer_link-items">
-                    <h2>About Us</h2>
-                    <a href="/sign-up">How it works</a>
-                    <a href="/sign-up">Testimonials</a>
-                    <a href="/sign-up">Careers</a>
-                    <a href="/sign-up">Terms of Service</a>
+                    <h2>Entreprises à connaître</h2>
+                    <a href="/sign-up">TLT</a>
+                    <a href="/sign-up">Binarius</a>
                 </div>
                 <div class="footer_link-items">
                     <h2>Team RD</h2>
-                    <a href="/sign-up">How it works</a>
-                    <a href="/sign-up">Testimonials</a>
-                    <a href="/sign-up">Careers</a>
-                    <a href="/sign-up">Terms of Service</a>
+                    <a href="/sign-up">R & D</a>
+                    <a href="/sign-up">L'équipe</a>
                 </div>
             </div>
             <div class="footer_link-wrapper">
@@ -132,15 +127,13 @@
                     <h2>Nous soutenir</h2>
                     <a href="/https://paypal.me/ayoxtechnology">PayPal</a>
                     <a href="/sign-up">Tipee</a>
-                    <a href="/sign-up">Carrière</a>
-                    <a href="/sign-up">Services ou autre</a>
                 </div>
                 <div class="footer_link-items">
                     <h2>Réseaux sociaux</h2>
-                    <a href="/https://www.youtube.com/channel/UCX_80zKuur8fh5UxavnRTew">YouTube</a>
-                    <a href="/https://discord.gg/VNMbCArg8W">Discord</a>
-                    <a href="/https://www.instagram.com/ayoxtechnology/">Instagram</a>
-                    <a href="/https://twitter.com/Ayox_Technology">Twitter</a>
+                    <a href="https://www.youtube.com/channel/UCeFWpuVnGJfy7zxIAMBVovA">YouTube</a>
+                    <a href="https://discord.gg/nvMYMt6Tg3">Discord</a>
+                    <a href="https://www.instagram.com/rd__industries/">Instagram</a>
+                    <a href="https://twitter.com/RD__Industries">Twitter</a>
                 </div>
             </div>
         </div>
@@ -151,10 +144,10 @@
             </div>
             <p class="website_rights">© RD-Industries 2022. Tous les droits réservés</p>
             <div class="social_icons">
-                <a href="https://discord.gg/VNMbCArg8W" class="social_icons-links" target="_blank"><i class="fab fa-discord"></i></a>
-                <a href="https://www.youtube.com/channel/UCX_80zKuur8fh5UxavnRTew" class="social_icons-links"><i class="fab fa-youtube"></i></a>
-                <a href="https://www.instagram.com/ayoxtechnology/" class="social_icons-links"><i class="fab fa-instagram"></i></a>
-                <a href="https://twitter.com/Ayox_Technology" class="social_icons-links"><i class="fab fa-twitter"></i></a>
+                <a href="https://discord.gg/nvMYMt6Tg3" class="social_icons-links" target="_blank"><i class="fab fa-discord"></i></a>
+                <a href="https://www.youtube.com/channel/UCeFWpuVnGJfy7zxIAMBVovA" class="social_icons-links"><i class="fab fa-youtube"></i></a>
+                <a href="https://www.instagram.com/rd__industries/" class="social_icons-links"><i class="fab fa-instagram"></i></a>
+                <a href="https://twitter.com/RD__Industries" class="social_icons-links"><i class="fab fa-twitter"></i></a>
             </div>
         </div>
         </section>
